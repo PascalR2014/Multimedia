@@ -40,9 +40,9 @@ Copier - coller le code c'est facile !!
 
 Que vous pourrez étoffer si le coeur vous en dit avec d'autres langages ...
 
-2. Attention tous les formats de fichiers ne sont pas forcément lisible dans tous les navigateurs.
+L'ajout du framework de bootstrap semble judicieux !!
 
-Cela fait partie des joies du code.
+2. Attention tous les formats de fichiers ne sont pas forcément lisible dans tous les navigateurs. Cela fait partie des joies du code.
 
 3. la base puis les différentes fonctionnalités
 
