@@ -12,7 +12,9 @@ Ce projet disponible en version starter et en version v1 est issus d'une formati
 
 4. Vous pouvez utiliser les différents fichiers qui sont inclus dans ce projet mais n'oubliez pas de mentionner les auteurs.
 
-Voir dossier starter-mulitmedia.
+Voir dossier starter-mulitmedia pour commencer l'application.
+
+Ainsi que le fichier instructions.md pour suivre les étapes de développement.
 
 Courage et amusez vous bien !
 
