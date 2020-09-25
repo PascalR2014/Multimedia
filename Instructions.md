@@ -22,7 +22,7 @@ Taper ceci dans votre moteur de recherche
 
 Moi j'ai pris le premier résultat qui vient, par exemple: 
 
-![developer mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d%27audio_et_video_en_HTML5)
+Developer mozilla.org en français - https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d%27audio_et_video_en_HTML5
 
 * A propos ce site est une mine d'informations à vous de jouer les mineurs !!
 
@@ -33,6 +33,10 @@ Copier - coller le code c'est facile !!
 ----------------------------
 
 # Instructions pour le développement
+
+## La partie design
+
+A titre d'exemple
 
 ![Présentation projet multimédia](https://github.com/PascalR2014/Multimedia/blob/master/Projet-multimedia.png "Visuel du projet multimédia")
 
@@ -80,11 +84,6 @@ Allez on construit notre app' c'est parti !!
 
 4. ...
 
-----------------------------
-
-## La partie design
-
-...
 
 
 
