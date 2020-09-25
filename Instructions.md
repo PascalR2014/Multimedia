@@ -34,6 +34,8 @@ Copier - coller le code c'est facile !!
 
 # Instructions pour le développement
 
+![Présentation projet multimédia](https://github.com/PascalR2014/Multimedia/blob/master/Projet-multimedia.png "Visuel du projet multimédia")
+
 ## Les bases
 
 1. Utilisez un stack Html, css, javascript

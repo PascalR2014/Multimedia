@@ -2,6 +2,8 @@
 
 This project, available in a starter version and in version v1, is the result of a training on Openclassrooms on the practice of html5 and css3 in order to practice the concepts related to audio and video management in the manner of a Deezer or other type application.
 
+![Voir le projet sur ma chaîne youtube:](https://www.youtube.com/watch?v=zn7OP1wSuQw)
+
 ## Instructions
 
 1. Search for any available information related to audio and video management technologies with html5 technology.
