@@ -2,7 +2,7 @@
 
 Ce projet disponible en version starter et en version v1 est issus d'une formation sur Openclassrooms sur la pratique de l'html5 et du css3 afin de pratiquer les concepts liés à la gestion de l'audio et de la vidéo à la manière d'une application de type Deezer ou autres. 
 
-![Voir le projet sur ma chaîne youtube:](https://www.youtube.com/watch?v=zn7OP1wSuQw)
+Voir le projet sur ma chaîne youtube - https://www.youtube.com/watch?v=zn7OP1wSuQw
 
 ## Instructions
 
@@ -35,7 +35,7 @@ Pour installer et utiliser ce projet, un simple navigateur et un éditeur de cod
 
 A titre d'exemple
 
-![developer mozilla.org - html audio et video](https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d%27audio_et_video_en_HTML5)
+developer mozilla.org - html audio et video https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d%27audio_et_video_en_HTML5
 
 Livres sur le sujet
 
