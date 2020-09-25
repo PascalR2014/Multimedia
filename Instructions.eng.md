@@ -22,7 +22,7 @@ Type this in your search engine
 
 I took the first result that comes, for example:
 
-![developer mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d%27audio_et_video_en_HTML5)
+Developer mozilla.org - https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery
 
 * About this site is a mine of information to you to play the minors !!
 
@@ -34,7 +34,10 @@ Copy - paste the code is easy !!
 
 # Instructions for development
 
-![Présentation projet multimédia](https://github.com/PascalR2014/Multimedia/blob/master/Projet-multimedia.png "Visuel du projet multimédia")
+
+## The design part
+
+![Visual of the multimedia project](https://github.com/PascalR2014/Multimedia/blob/master/Projet-multimedia.png "Visuel du projet multimédia")
 
 ## The basics
 
@@ -82,9 +85,6 @@ Come on, let's build our app 'let's go !!
 
 ----------------------------
 
-## The design part
-
-...
 
 
 
