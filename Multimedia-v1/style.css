@@ -1,0 +1,61 @@
+/* N'oubliez pas d'utiliser ce fichier si vous souhaitez améliorer 
+le confort visuel de votre app */
+
+/* Vous pouvez piocher des infos gratuitement sur ce site, par exemple */
+/* https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_CSS */
+
+.flex-container {
+	display: flex;
+    width: 800px; 
+    height:	455px;
+    border: 5px outset #404040;
+    background-color: red;
+}
+
+.flex-child {
+    flex: auto;
+}  
+
+.flex-child:first-child {
+	flex: auto;
+} 
+
+.flex-child one {
+	margin-right: 15px;
+	padding-right: 2px;
+}
+
+.flex-child two {
+	margin-left: 15px;
+	padding-left: 4px;
+}
+
+h2, h5, p {
+	text-align: center;
+	font-weight: bold;
+}
+
+h6 {
+	text-align: right;
+	margin-right: 15px;
+}
+
+.card-img-top {
+    border: 10px groove #404040;
+    outline: 4px;
+    outline-offset: 5px;
+}
+
+.card-text {
+	text-align: center;
+}
+
+/* L'idée serait de mettre le lien en rouge a voir 
+
+a {
+	color: red;
+}
+*/
+
+
+
