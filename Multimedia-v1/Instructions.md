@@ -78,11 +78,9 @@ Lorsque l'on développe une première version du projet il vaut mieux créer une
 
 1. La branche doit s'appeler "Multimedia-v1"
 
-[A faire]
+[Done -Fait]
 
 Y ajouter tous les fichiers nécessaires au développement du projet html, css, js, dossier mulitmédia et le présent fichier instructions.md
-
-[Done -Fait]
 
 ...
 
