@@ -37,7 +37,7 @@ Copy - paste the code is easy !!
 
 ## The design part
 
-![Visual of the multimedia project](https://github.com/PascalR2014/Multimedia/blob/master/Projet-multimedia.png "Visuel du projet multimédia")
+![Visual of the multimedia project](https://github.com/PascalR2014/Multimedia/blob/Multimedia-v1/Multimedia-v1/projet-multimedia2.png "Sample image for the project")
 
 ## The basics
 
