@@ -28,7 +28,7 @@ L'application web de type player doit permettre la lecture de l'audio et de la v
 
 Une image issus du design que j'ai développer pour mon projet.
 
-![Présentation projet multimédia](https://github.com/PascalR2014/Multimedia/blob/master/projet-multimedia2.png "Visuel du projet multimédia")
+![Présentation projet multimédia](https://github.com/PascalR2014/Multimedia-v1/blob/master/projet-multimedia2.png "Visuel du projet multimédia")
 
 Evidemment il faut prendre en compte le fait que toutes les fonctionnalités soient visibles et surtout agréable pour l'utilisateur. 
 
