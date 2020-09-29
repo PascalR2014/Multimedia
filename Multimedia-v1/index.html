@@ -12,14 +12,15 @@
 	<title>Mon player</title>
 </head>
 <body>
+	<!-- Partie vidéo -->
 	<div id="video" class="flex-container">
 		<div class="card" class="flex-child one" style="width: 10rem;">
 		  	<img src="multimedia/media_player.ico" class="card-img-top" alt="image de fonds">
 			<div class="card-body">
-			  	<h5 class="card-text">Information</h5>
-			    <p>Title</p>
-			    <p>Cast</p>
+			  	<h5 class="card-text">Information video</h5>
+			  	<br>
 			    <p>Director</p>
+			    <p>Cast</p>
 			    <p>IMDB Notation</p>
 			    <h5><a href="#" class="card-link">More about</a></h5>
 		  	</div>
@@ -31,33 +32,48 @@
 				<source src="multimedia/Nationalhymne Deutschland (Deutschlandlied) - National Anthem.webm" type="video/webm">
 				  <!-- Track tag - Pour ajouter des sous-titres ou des légendes -->
 				<track kind="subtitles" label="FR" src="" srclang="fr" type="text/vtt" default>
-			  	Votre navigateur ne gère pas l'élément<code>video</code>.
+			  	Votre navigateur ne gère pas votre fichier<code>video</code>.
 			</video>
 			<br>
 			<h2>Title video</h2>
-			<h6>Video player v1.2</h6>
+			<h6>Video player v1.5</h6>
 		</div>
 	</div>
-	<!-- intégrer fonction audio -->
-		<!--
-		<div class="card" class="flex-child one" style="width: 10rem;">
-		  	<img src="multimedia/media_player.ico" class="card-img-top" alt="image de fonds">
+	<br>
+	<!-- Partie audio -->
+	<div id="audio" class="flex-container">
+		<div class="card" class="flex-child one">
+		  	<img src="multimedia/album-Barbara-Hendricks.jpg" class="card-img-top" alt="Photo album">
+		  	<audio controls> 
+				<source src="multimedia/WeWishUaMerryChristmas.mp3">
+				<source src="foo.ogg" type="audio/ogg">
+			</audio>
 			<div class="card-body">
-			  	<h3 class="card-text">About this track</h3>
-			    <p>Author</p>
-			    <p>Title</p>
-			    <p>Album name</p>
+			  	<p>Barbara Hendricks<br>We Wish you a merry Christmas</p>
 			    <h5><a href="#" class="card-link">More about</a></h5>
 		  	</div>
 		</div>
-	-->
-
-	<!-- Fonctionnalité intégration video en ligne A voir !!-->
-	
-
-
-
-
+		<div class="card" class="flex-child one">
+		  	<img src="multimedia/Pharrell-Happy.jpg" class="card-img-top" alt="Photo album">
+		  	<audio controls> 
+				<source src="multimedia/Pharrell Williams - Happy (Official Music Video).mp3">
+				<source src="foo.ogg" type="audio/ogg">
+			</audio>
+			<div class="card-body">
+			  	<p>Pharrell Williams<br>Happy</p>
+			    <h5><a href="#" class="card-link">More about</a></h5>
+		  	</div>
+		</div>
+		<h6>Audio player v1.5</h6>
+	</div>
+	<br>
+	<!--intégration de video en ligne de type youtube !!-->
+	<div id="video" class="flex-container">
+			<iframe width="790px" height="455px" src="https://www.youtube.com/embed/bB5-V0WhhKY=2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<h6>Stream Video Integration v0.5</h6>
+		<!-- Exemple de code integration pris sur youtube !!-->
+	</div>
+	<br>
 	<!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

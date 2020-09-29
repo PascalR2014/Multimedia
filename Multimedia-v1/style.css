@@ -1,15 +1,13 @@
-/* N'oubliez pas d'utiliser ce fichier si vous souhaitez améliorer 
-le confort visuel de votre app */
 
-/* Vous pouvez piocher des infos gratuitement sur ce site, par exemple */
-/* https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_CSS */
+#video, #audio  {
+	background-color: red;
+}
 
 .flex-container {
 	display: flex;
     width: 800px; 
     height:	455px;
     border: 5px outset #404040;
-    background-color: red;
 }
 
 .flex-child {
@@ -37,7 +35,7 @@ h2, h5, p {
 
 h6 {
 	text-align: right;
-	margin-right: 15px;
+	margin-right: 20px;
 }
 
 .card-img-top {
@@ -48,6 +46,7 @@ h6 {
 
 .card-text {
 	text-align: center;
+
 }
 
 /* L'idée serait de mettre le lien en rouge a voir 
