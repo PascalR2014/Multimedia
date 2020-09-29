@@ -38,7 +38,7 @@ Copier - coller le code c'est facile !!
 
 A titre d'exemple
 
-![Présentation projet multimédia](https://github.com/PascalR2014/Multimedia/blob/master/Projet-multimedia.png "Visuel du projet multimédia")
+![Présentation projet multimédia](https://github.com/PascalR2014/Multimedia/blob/Multimedia-v1/Multimedia-v1/projet-multimedia2.png "Visuel du projet multimédia")
 
 ## Les bases
 
