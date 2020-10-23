@@ -66,24 +66,6 @@ Ou bien encore celui de Deezer qui lui aussi est une application web !!
 
 Allez on construit notre app' c'est parti !!
 
-----------------------------
-
-## Les fonctionnalités
-
-1. Ce qui est déjà là
-
-...
-
-2. Ce qui va nous être indispensable
-
-...
-
-3. Ce que nous pourrions rajouter
-
-...
-
-4. ...
-
 
 
 
